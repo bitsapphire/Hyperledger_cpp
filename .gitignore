@@ -1,0 +1,8 @@
+*.o
+*.dylib
+*.cmake
+*.lib
+*.pyc
+
+docs/html
+docs/latex
